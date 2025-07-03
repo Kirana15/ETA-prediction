@@ -57,6 +57,8 @@ For Web Interface
 
 ETA Prediction Web App
 
+Tap here to access Web App
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
   
 ## Author
