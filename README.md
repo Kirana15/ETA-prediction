@@ -33,7 +33,7 @@ eta-predictor/
 
 ├── python/ # Python scripts (training, app.py)
 
-├── Images/ # Screenshots or plots for data analysis
+├── Analysis/ # Screenshots or plots for data analysis
 
 ├── eta_model.pkl # Saved ML model
 
