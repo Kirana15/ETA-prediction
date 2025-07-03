@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+import geopy
 from geopy.geocoders import Nominatim
 import openrouteservice
 import time
