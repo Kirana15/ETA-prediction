@@ -30,10 +30,15 @@ The user fills in a form on the Streamlit web interface:
 ## Folder Structure
 
 eta-predictor/
+
 ├── python/ # Python scripts (training, app.py)
+
 ├── Images/ # Screenshots or plots for data analysis
+
 ├── eta_model.pkl # Saved ML model
+
 ├── ETA_BENGALURU_DATASET.xlsx # Dataset used for training
+
 └── README.md # Project overview
 
 ## Requirements
