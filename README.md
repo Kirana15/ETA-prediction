@@ -56,9 +56,9 @@ For Web Interface
 - openrouteservice
 
 ETA Prediction Web App,
-tap  to access Web App
+tap on 'open in Streamlikt' button
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eta-prediction-fnv27adnapkvbjsx6vnnru.streamlit.app/)
   
 ## Author
 Kirana BV
