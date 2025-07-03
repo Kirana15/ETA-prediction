@@ -55,8 +55,8 @@ For Web Interface
 - geopy 
 - openrouteservice
 
-ETA Prediction Web App
-Tap here to access Web App
+ETA Prediction Web App,
+tap  to access Web App
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
   
